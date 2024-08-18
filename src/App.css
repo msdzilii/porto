@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -39,4 +43,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+/*navbar*/
+
+/*section*/
+.section {
+  height: 100vh;
+  padding: 50px 20px;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Tambahkan warna berbeda untuk tiap section */
+#aboutme {
+  background-color: #ffddc1;
+}
+
+#experience {
+  background-color: #f7a9a8;
+}
+
+#skill {
+  background-color: #f8b400;
+}
+
+#portofolio {
+  background-color: #ff5733;
+}
+
+#contact {
+  background-color: #c70039;
 }
