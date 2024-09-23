@@ -9,6 +9,7 @@ import Contact from "./components/section/contact.js";
 
 import "./App.css";
 
+
 function App() {
   return (
     <div className="App">

@@ -56,7 +56,7 @@ html {
 
 /* Tambahkan warna berbeda untuk tiap section */
 #aboutme {
-  background-color: #ffddc1;
+  background-color: #f0f0f0;
 }
 
 #experience {
@@ -74,3 +74,49 @@ html {
 #contact {
   background-color: #c70039;
 }
+
+
+/* Hero-Section */
+
+.hero-section {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 60px;
+  background-color: #fff;
+}
+
+.hero-text {
+  max-width: 50%;
+}
+
+.hero-text h1 {
+  font-size: 48px;
+  color: #333;
+  line-height: 1.2;
+}
+.hero-text h2 {
+  font-size: 36px;
+  color: #333;
+  line-height: 1.2;
+}
+.hero-text h2 span {
+  color: rgb(30 58 138) ;
+}
+
+.hero-text p {
+  font-size: 18px;
+  color: #555;
+  margin: 20px 0;
+}
+
+.download-btn {
+  padding: 10px 20px;
+  background-color: rgb(30 58 138);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+

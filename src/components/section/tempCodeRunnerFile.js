@@ -1,1 +1,0 @@
-<div className='md:w-1/2'>

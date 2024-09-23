@@ -1,30 +1,29 @@
-import React from 'react'
-import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
+import React from "react";
+import myImage from '../../assets/Images/myImages.png';  // go up two directories
+import { Popover, PopoverButton, PopoverPanel } from "@headlessui/react";
 
 const AboutMe = () => {
   return (
     <div>
-      <section id='aboutme' className='section'>
-        <div className='content mt-10'>
-          <h1 className='text-2xl md:text-4xl font-bold text-gray-800 mb-6'>
-            Tentang Saya
-          </h1>
-          <p className='text-gray-600 mb-6'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      <section id= "aboutme" className="hero-section">
+        <div className="hero-text">
+          <h1>Hello</h1>
+          <h2>
+            I'm <span>Muhammad Mufid Sadzili</span>
+          </h2>
+          <p>
+            This is Jems Kemerun, visual designer, Photographer, Web Developer
+            and Creative Director located in United States, looking for working
+            around the globe.
           </p>
+          <button className="download-btn">Download CV</button>
         </div>
-
-        <div className='md:w-1/2 flex justify-center mt-10 md:mt-0 relative'>
-          <img
-            src='https://via.placeholder.com/400x300'
-            alt='Office'
-            className='rounded-lg shadow-lg'
-          />
+        <div className="hero-image">
+          <img src={myImage} alt="Muhammad Mufid Sadzili" style={{ width: '450px', height: 'auto' }} />
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
-export default AboutMe
+export default AboutMe;

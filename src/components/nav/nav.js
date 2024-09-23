@@ -19,7 +19,7 @@ const Header = () => {
                 Portofolio
               </a>
               <a href="#contact" className="text-base font-medium text-blue-900 hover:text-blue-950">
-                Kontak Saya
+                Kontak 
               </a>
             </nav>
           </div>

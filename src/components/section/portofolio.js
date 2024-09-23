@@ -5,8 +5,8 @@ const Portofolio = () => {
   return (
     <div>
       <section id='portofolio' className='section'>
-        <h2>Portofolio</h2>
-        <p>Ini adalah bagian portofolio.</p>
+        <h2>Muhammad Mufid Sadzili</h2>
+        <h3></h3>
       </section>
     </div>
   )
