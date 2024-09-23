@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import React from "react";
 
-import Header from "./components/nav/header.js";
+import Header from "./components/nav/nav.js";
 import AboutMe from "./components/section/aboutme.js";
 import Experience from "./components/section/experience.js";
 import Portofolio from "./components/section/portofolio.js";
