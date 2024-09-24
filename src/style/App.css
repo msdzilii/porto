@@ -44,6 +44,7 @@ html {
     transform: rotate(360deg);
   }
 }
+
 /*navbar*/
 
 /*section*/
@@ -53,8 +54,6 @@ html {
   background-color: #f0f0f0;
   border-bottom: 1px solid #ccc;
 }
-
-/* Tambahkan warna berbeda untuk tiap section */
 #aboutme {
   background-color: #f0f0f0;
 }
@@ -77,7 +76,6 @@ html {
 
 
 /* Hero-Section */
-
 .hero-section {
   display: flex;
   justify-content:space-between;

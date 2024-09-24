@@ -7,7 +7,7 @@ import Experience from "./components/section/experience.js";
 import Portofolio from "./components/section/portofolio.js";
 import Contact from "./components/section/contact.js";
 
-import "./App.css";
+import "./style/App.css";
 
 
 function App() {
