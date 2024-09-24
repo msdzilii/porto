@@ -10,16 +10,16 @@ const Header = () => {
           <div className="flex items-center">
             <nav className="hidden md:flex space-x-10 ml-10">
               <a href="#aboutme" className="text-base font-medium text-blue-900 hover:text-blue-950">
-                Tentang Saya
+                About Me
               </a>
               <a href="#experience" className="text-base font-medium text-blue-900 hover:text-blue-950">
-                Pengalaman 
+                Experience
               </a>
               <a href="#portofolio" className="text-base font-medium text-blue-900 hover:text-blue-950">
                 Portofolio
               </a>
               <a href="#contact" className="text-base font-medium text-blue-900 hover:text-blue-950">
-                Kontak 
+                Contact
               </a>
             </nav>
           </div>

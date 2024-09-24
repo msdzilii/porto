@@ -12,9 +12,9 @@ const AboutMe = () => {
             I'm <span>Muhammad Mufid Sadzili</span>
           </h2>
           <p>
-            This is Jems Kemerun, visual designer, Photographer, Web Developer
-            and Creative Director located in United States, looking for working
-            around the globe.
+          As a Fresh Graduate from the Department of Computer Science, University of Lampung, I have the ability to work diligently, disciplined and collaboratively in a team. 
+          I am committed to continuing to develop in order to increase my potential. 
+          I specialize as a Systems Analyst with an interest in UI/UX design and Web Developer.
           </p>
           <button className="download-btn">Download CV</button>
         </div>
