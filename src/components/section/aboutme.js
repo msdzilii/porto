@@ -18,6 +18,7 @@ const AboutMe = () => {
           </p>
           <button className="download-btn">Download CV</button>
         </div>
+        
         <div className="hero-image">
           <img src={myImage} alt="Muhammad Mufid Sadzili" style={{ width: '450px', height: 'auto' }} />
         </div>
