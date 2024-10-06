@@ -1,0 +1,12 @@
+.portofolio-section {
+    align-items: center;
+  
+}
+  
+.portofolio-section h1 {
+    padding: 40px;
+    background-color: #fff;
+    font-size: 40px;
+    color: #333;
+    text-align: center;
+}
