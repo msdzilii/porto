@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+}
+
+/*section*/
+.section {
+    height: 100vh;
+    padding: 50px 20px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #aboutme {
+    background-color: #f0f0f0;
+  }
+  
+  #experience {
+    background-color: #f0f0f0;
+  }
+  
+  #portofolio {
+    background-color: #f0f0f0;
+  }
+  
+  #contact {
+    background-color: #f0f0f0;
+  }

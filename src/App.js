@@ -2,12 +2,17 @@ import logo from "./logo.svg";
 import React from "react";
 
 import Header from "./components/nav/nav.js";
-import AboutMe from "./components/section/aboutme.js";
-import Experience from "./components/section/experience.js";
-import Portofolio from "./components/section/portofolio.js";
-import Contact from "./components/section/contact.js";
+import AboutMe from "./components/aboutMe/aboutme.js";
+import Experience from "./components/experience/experience.js";
+import Portofolio from "./components/portofolio/portofolio.js";
+import Contact from "./components/contact/contact.js";
 
 import "./style/App.css";
+import "./components/nav/nav.css";
+import "./components/aboutMe/aboutMe.css";
+import "./components/contact/contact.css";
+import "./components/experience/experience.css";
+import "./components/portofolio/portofolio.css";
 
 
 function App() {

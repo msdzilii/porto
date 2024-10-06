@@ -21,9 +21,9 @@ const Experience = () => {
               evaluation of student performance.
             </p>
             <ul>
-              <li>• Design Analysis and Information Systems</li>
-              <li>• Data Communications and Computer Networks</li>
-              <li>• Pattern Recognition</li>
+              <li> Design Analysis and Information Systems</li>
+              <li> Data Communications and Computer Networks</li>
+              <li> Pattern Recognition</li>
             </ul>
           </div>
           <div>
@@ -41,10 +41,10 @@ const Experience = () => {
               serve the financial needs of the people of Lampung.
             </p>
             <ul>
-              <li>•	Building a training and education system (SiPendik) for Bank Lampung using CodeIgniter 4</li>
-              <li>• Developing the SiPendik frontend developer</li>
-              <li>•	Collaborating with Bank Lampung human capital staff to build SiPendik</li>
-              <li>•	Assisting company operations, especially in the Operations Center division.</li>
+              <li>	Building a training and education system (SiPendik) for Bank Lampung using CodeIgniter 4</li>
+              <li> Developing the SiPendik frontend developer</li>
+              <li>	Collaborating with Bank Lampung human capital staff to build SiPendik</li>
+              <li>	Assisting company operations, especially in the Operations Center division.</li>
             </ul>
           </div>
           <div>
