@@ -1,10 +1,10 @@
 /* Hero-Section */
+
 .hero-section {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 60px;
-    background-color: #fff;
 }
 
 .hero-text {
@@ -25,7 +25,8 @@
 }
 
 .hero-text h2 span {
-    color: rgb(30 58 138);
+    color: #134B70;
+    font-weight: 6px;
 }
 
 .hero-text p {
@@ -36,8 +37,8 @@
 
 .download-btn {
     padding: 10px 20px;
-    background-color: rgb(30 58 138);
-    color: white;
+    background-color:#134B70;
+    color: #EEEEEE;
     border: none;
     cursor: pointer;
     font-size: 16px;
